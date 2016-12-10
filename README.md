@@ -1,5 +1,7 @@
 # Advent-of-Code-Day-1-Puzzle-1
 http://adventofcode.com/2016/about
+
+The file "travelinput.txt" is the puzzle input that I was given for this particular challenge.
 -----------------------------------------------------------------------------------------------------------------------------------------
 The first puzzle from the 2016 "Advent of Code" Christmas-themed programming puzzle challenge. The Advent of Code challenge adds festive puzzles every day up until Christmas, with the goal of solving a puzzle every day. This puzzle, the first puzzle from day 1, was completed using Java. The description below comes from the AoC website.
 -----------------------------------------------------------------------------------------------------------------------------------------
