@@ -1,4 +1,4 @@
-# Advent-of-Code-Day
+# Advent-of-Code-Day-1
 http://adventofcode.com/2016/about
 
 The file "travelinput.txt" is the puzzle input that I was given for this particular challenge.
